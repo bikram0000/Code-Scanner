@@ -1,2 +1,2 @@
 # Code-Scanner
-Here we can scan qr or bar code for a product id and product price. i used zxing Library.
+Here we can scan qr or bar code for a product id and product price. I used zxing Libraryfor scanning codes.
